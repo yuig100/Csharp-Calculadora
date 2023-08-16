@@ -1,0 +1,17 @@
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles_Básicos.txtresultado.resources
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\bin\Debug\net7.0-windows\LayouteControles Básicos.exe
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\bin\Debug\net7.0-windows\LayouteControles Básicos.deps.json
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\bin\Debug\net7.0-windows\LayouteControles Básicos.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\bin\Debug\net7.0-windows\LayouteControles Básicos.dll
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\bin\Debug\net7.0-windows\LayouteControles Básicos.pdb
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.dll
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\refint\LayouteControles Básicos.dll
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.pdb
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\LayouteControles Básicos.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\C#\LayouteControles Básicos\LayouteControles Básicos\obj\Debug\net7.0-windows\ref\LayouteControles Básicos.dll
